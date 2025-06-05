@@ -19,7 +19,7 @@ Individuals interested in developing artificial intelligence applications.
 
 ---
 
-![]()<img src="demo.gif" alt="Table" width="960" height="496" style="display: block; margin-left:100px ;"> 
+![]()<img src="/demo.gif" alt="Table" width="960" height="496" style="display: block; margin-left:100px ;"> 
 
 ---
 
